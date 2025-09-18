@@ -1,0 +1,15 @@
+# Ficheiros do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Configurações de IDE
+.vscode/
+.idea/
+
+# Pastas temporárias
+node_modules/
+dist/
+build/
