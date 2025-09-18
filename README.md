@@ -9,7 +9,7 @@ O objetivo é centralizar **guidelines, checklists, templates e estratégias** q
 
 ## 📂 Estrutura do Repositório
 
-- **documentacao/** → Diretrizes gerais de QA e guidelines funcionais.  
+- **documentacao/** → Diretrizes gerais de QA e guidelines funcionais. 
 - **templates/** → Modelos reutilizáveis para planos de teste, casos de teste e relatórios.  
 - **checklists/** → Listas práticas para regressão, UAT e smoke tests.  
 - **processos/** → Exemplos de fluxos de QA em projetos ágeis e híbridos.  
@@ -28,7 +28,7 @@ O objetivo é centralizar **guidelines, checklists, templates e estratégias** q
 
 ## 📌 Exemplos de Conteúdo
 
-✔️ **Checklist de Regressão – Módulo de Faturação**  
+✔️ **Checklist de Regressão**  
 ✔️ **Template de Plano de Testes**  
 ✔️ **Métricas de QA (eficiência, eficácia, cobertura)**  
 ✔️ **Diretrizes para Testes de API (Postman / SOAP UI)**  
